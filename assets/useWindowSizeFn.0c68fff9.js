@@ -1,0 +1,1 @@
+import{cd as o,aD as d,bD as a}from"./index.e0e923f1.js";function m(r,s=150,n){let e=()=>{r()};e=a(e,s);const t=()=>{n&&n.immediate&&e(),window.addEventListener("resize",e)},i=()=>{window.removeEventListener("resize",e)};return o(()=>{t()}),d(()=>{i()}),[t,i]}export{m as u};

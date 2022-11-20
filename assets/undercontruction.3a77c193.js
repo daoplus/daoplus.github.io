@@ -1,0 +1,1 @@
+import{a as e,o as t,J as n,q as a,l as o,cw as s,j as u}from"./index.00d33503.js";const c=u("span",null," \u9875\u9762\u670D\u52A1\u6784\u5EFA\u4E2D ",-1),l=e({__name:"undercontruction",setup(r){return(_,p)=>(t(),n(o(s),null,{description:a(()=>[c]),_:1}))}});export{l as default};

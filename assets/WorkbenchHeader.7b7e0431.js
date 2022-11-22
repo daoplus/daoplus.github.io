@@ -1,1 +1,0 @@
-import{H as t,aE as o,o as s,i as a,j as c,k as r}from"./index.00d33503.js";const n={},l={class:"lg:flex"},_={class:"md:ml-6 flex flex-col justify-center md:mt-0 mt-2"};function d(m,i){const e=o("a-input-search");return s(),a("div",l,[c("div",_,[r(e,{style:{"margin-bottom":"8px"},placeholder:"\u8FD0\u5355\u68C0\u7D22"})])])}var p=t(n,[["render",d]]);export{p as default};

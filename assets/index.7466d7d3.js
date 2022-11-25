@@ -1,0 +1,1 @@
+import{a as e,o as a,J as s,q as t,l as n,cw as o,j as u}from"./index.f8b1f764.js";const c=u("span",null," \u9875\u9762\u670D\u52A1\u6784\u5EFA\u4E2D ",-1),l=e({__name:"index",setup(r){return(_,p)=>(a(),s(n(o),null,{description:t(()=>[c]),_:1}))}});export{l as default};
